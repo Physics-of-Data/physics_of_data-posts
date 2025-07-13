@@ -1,13 +1,4 @@
----
-tags: []
-up: 
-related: []
-device: Linux
-uuid: '20250712185130'
----
-
-
-Collection of posts about "The Physics of Data".
+# Collection of posts about "The Physics of Data".
 
 Converted to PDF from Obsidian vault.
 
