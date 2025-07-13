@@ -1,4 +1,4 @@
-# Collection of posts about "The Physics of Data".
+# Collection of posts about "Physics of Data"
 
 Converted to PDF from Obsidian vault.
 
